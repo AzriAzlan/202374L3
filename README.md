@@ -1,6 +1,6 @@
-# flutter_guide
+# Capital City Quiz
 
-A new Flutter project.
+202374 LAB 3 SSE3151
 
 ## Getting Started
 
